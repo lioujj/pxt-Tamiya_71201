@@ -1,0 +1,18 @@
+{
+    "Tamiya_71201|block":"田宮71201",
+    "Tamiya_71201.Directions.foreward|block":"前進",
+    "Tamiya_71201.Directions.backward|block":"後退",
+    "Tamiya_71201.Directions.leftward|block":"逆時針旋轉",
+    "Tamiya_71201.Directions.rightward|block":"順時針旋轉",
+    "Tamiya_71201.rotateDir.foreward|block":"前進",
+    "Tamiya_71201.rotateDir.backward|block":"後退",
+    "Tamiya_71201.motor.left|block":"左",
+    "Tamiya_71201.motor.right|block":"右",
+    "Tamiya_71201.unit.cm|block":"公分",
+    "Tamiya_71201.unit.mm|block":"公釐",
+    "Tamiya_71201.moveAll|block":"設定機器人移動方式： %myDir | 馬力：(0~511) %power",
+    "Tamiya_71201.stop|block":"機器人停止移動",
+    "Tamiya_71201.motorRotate|block":"設定 %myMotor 邊馬達 | %myDir | 馬力：(0~511) %power",
+    "Tamiya_71201.stopSingleMotor|block":"停止 %myMotor 邊馬達轉動",
+    "Tamiya_71201.getDistance|block":"取得前方障礙物距離，單位：%myUnit"
+}
