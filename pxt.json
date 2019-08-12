@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-tw/Tamiya_71201.json"
+        "_locales/zh-tw/Tamiya_71201-strings.json"
     ],
     "public": true
 }
