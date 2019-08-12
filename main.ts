@@ -2,7 +2,7 @@
  *Tamiya 71201 Microcomputer Robot
  */
 //% weight=0 color=#3CB371 icon="\uf1b9" block="Tamiya_71201"
-namespace Tamiya_71201 {
+namespace Tamiya_71201  {
 
     const stopValue = 511
     pins.analogSetPitchPin(AnalogPin.P8)
