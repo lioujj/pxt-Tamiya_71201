@@ -24,6 +24,8 @@ Tamiya 71201 is a robot for micro:bit that manufactured from YAMIYA, but Tamiya 
 The code of controller\
 ![image](images/remoteController_eng.png)
  \
+ \
+ \
 The code of Robot\
 ![image](images/remoteRobot_eng.png)
 
