@@ -9,7 +9,7 @@ Liou Zheng-Ji\
 [my page, https://sites.google.com/jes.mlc.edu.tw/ljj/](https://sites.google.com/jes.mlc.edu.tw/ljj/)
 
 ## Description
-Tamiya 71201 is a robot for micro:bit that manufactured from YAMIYA, but Tamiya doesn't make the extension for the robot. So, I made it. 
+Tamiya 71201 is a robot for micro:bit that manufactured from TAMIYA, but TAMIYA doesn't make the extension for the robot. So, I made it. 
 
 ## Video1: Obstacle avoidance mode 
 [![click here to see the sample video](https://img.youtube.com/vi/jVTZ3zXjj3U/0.jpg)](https://www.youtube.com/watch?v=jVTZ3zXjj3U)
